@@ -11,7 +11,7 @@ Dashboard Includes -
 
 - Region Slicer
 - Monthly Sales
-- Tota- l Sales, Profit, Order Quantity
+- Total Sales, Profit, Order Quantity
 - distribution over States visualised on map
 - Sales by Product Category & Sub-Category
 - Top Customer by Sales, Order Quantity, Profit
