@@ -16,3 +16,5 @@ Dashboard Includes:
 - Top Customer by Sales, Order Quantity, Profit
 - Top Products by Profit, Order Quantity
 - Sales by City
+
+**Images and Video of the interactive dashboard along with Power BI file are uploaded.**
