@@ -1,13 +1,13 @@
 # Order_data_Project
-Objective: A visualization Project of order data in order to help in make data driven decisions
+**Objective:** A visualization Project of order data in order to help in making data driven decisions
 
-Project Summary:
+**Project Summary:**
 - Connecting and Loading dataset to  Power BI through Drive
 - Data Cleaning using Power Query Editor
 - Adding Calculated columns and measures using DAX 
 - Data Visualization to create interactive dashboards
 
-Dashboard Includes: 
+**Dashboard Includes:**
 - Region Slicer
 - Monthly Sales
 - Total Sales, Profit, Order Quantity
